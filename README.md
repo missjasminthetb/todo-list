@@ -1,3 +1,6 @@
+# To do list App
+Open [https://missjasminthetb.github.io/todo-list/]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
